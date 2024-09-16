@@ -10,5 +10,6 @@
 7-1.review_score_wordcloud 자외선 차단제 종류별 상하위 평점 제품 리뷰 키워드 워드 시각화한 코드입니다.(가설)
    
 7-2. tf-idf 다른 종류의 자외선 차단제 내에서 중복된 키워드들의 tf-idf(중요도)를 비교한 코드입니다.
+
 8. skin_type 피부 타입별 평균 평점을 낸 코드입니다.
 9. colabo_group_suncream_final_t-test 콜라보 여부에 따른 평점 평균 t-test입니다.(가설)
