@@ -1,5 +1,5 @@
 # oliveyoung_project
-멀티캠퍼스에서 시행한 올리브영 자외선차단제 마케팅 전략 수립을 위한 데이터 분석프로젝트입니다.
+멀티캠퍼스에서 시행한 올리브영 자외선차단제 마케팅 전략 수립을 위한 데이터 분석 프로젝트입니다.
 1. product_list_crwaling 올리브영 웹사이트 크롤링 코드입니다.
 2. product_parsing_list 파싱하여 데이터 수집하는 코드입니다.
 3. token_preprocessed_data 리뷰 댓글들을 토큰화하는 코드입니다.
